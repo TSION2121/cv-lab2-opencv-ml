@@ -5,7 +5,7 @@ hog = cv2.HOGDescriptor()
 hog.setSVMDetector(cv2.HOGDescriptor_getDefaultPeopleDetector())
 
 # Load image
-img = cv2.imread('pedestrians.jpg')
+img = cv2.imread('../pedestrians.jpg')
 img = cv2.resize(img, (640, 480))
 
 # Detect pedestrians
