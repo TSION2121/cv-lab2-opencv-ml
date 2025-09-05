@@ -13,12 +13,3 @@ This project explores basic machine learning techniques applied to image data us
 - Scikit-learn
 - Matplotlib & Seaborn
 
-## 📁 Structure
-# 📘 CV Lab II – Modular Reports
-
-This repository contains modular lab reports for Computer Vision Lab II, MSc AI @ AAU.
-
-## 📦 Contents
-
-- [`part1-digit-classification/`](./part1-digit-classification): KNN, SVM, and Decision Tree comparison on digit dataset
-- `part2-[next-topic]/`: Coming soon
